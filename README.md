@@ -1,6 +1,6 @@
 IT1214 Student Grade Management System
 
-Description
+Description 
 
 This is a simple Java console application developed to manage student grades. It allows teachers to add student records, display all students, 
 search for a student using the student ID, and calculate the average marks of all students.
